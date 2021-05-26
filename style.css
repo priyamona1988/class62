@@ -1,0 +1,64 @@
+body{
+	
+	text-align: center;
+	background-color: aqua;
+}
+
+.menu1{
+	
+	text-align: center;
+	text-shadow: white;
+    font-family: fantasy;
+    font-size: 30px;
+
+}
+
+.menu hover{
+	text-decoration-color:mediumseagreen;
+}
+
+#img1{
+
+    height: 545px;
+	width: 900px;
+}
+.links{
+	
+	padding-top: 200px;
+	padding-right: 300px;
+}
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color : black;
+    font-size: 20px;
+    font-family: cursive;
+}
+.carousel-indicators 
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+#Grids
+{
+    font-family: fantasy;
+    font-size: 30px;
+}
+#slides
+{
+   font-family: fantasy;
+    font-size: 30px; 
+}
+#contact
+{
+   font-family: fantasy;
+    font-size: 30px; 
+}
